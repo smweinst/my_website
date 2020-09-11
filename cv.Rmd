@@ -1,0 +1,57 @@
+---
+title: "Sarah M. Weinstein"
+---
+smweinst [at] pennmedicine [dot] upenn [dot] edu
+
+#### __Education__
+
+PhD, Biostatistics (expected May 2023)
+
+- University of Pennsylvania, Perelman School of Medicine (Philadelphia, PA)
+
+- Advisors: Russell (Taki) Shinohara, PhD and Kristin Linn, PhD
+
+- National Science Foundation Graduate Research Fellow (awarded 2018)
+
+MS, Biostatistics (May 2020)
+
+- University of Pennsylvania, Perelman School of Medicine (Philadelphia, PA)
+
+- Advisor: Alisa Stephens-Shields, PhD
+
+- Thesis: Simulation-based Design of Pragmatic Trials in Psoriatic Arthritis Using Propensity Scores
+
+BA, Statistics and Psychology (May 2016)
+
+- Columbia University, Columbia College (New York, NY)
+
+#### __Research experience__
+
+Research Data Analyst (June 2016-July 2018) 
+
+- Hospital for Special Surgery, Department of Anesthesiology, Critical Care, and Pain Management (New York, NY)
+
+Undergraduate Research Assistant (2013-2016)
+
+- Perinatal Pathways Lab, Columbia University Medical Center (PI: Catherine Monk, PhD)
+
+- Champagne Lab, Columbia University, Department of Psychology (PI: Frances Champagne, PhD)
+
+
+#### __Select publications__
+
+__Weinstein SM__, Poultsides L, Baaklini LR, Mörwald EE, Cozowicz C, Saleh JN, Arrington MB, Poeran J, Zubizarreta N, Memtsoudis SG. Postoperative delirium in total knee and hip arthroplasty patients: a study of perioperative modifiable risk factors. British journal of anaesthesia. 2018 May 1;120(5):999-1008.
+
+__Weinstein SM__, YaDeau JT, Memtsoudis SG. Lack of association between levels and length of intraoperative controlled hypotension and acute kidney injury in total hip arthroplasty patients receiving neuraxial anesthesia. Regional Anesthesia & Pain Medicine. 2018 Oct 1;43(7):725-31.
+
+__Weinstein SM__, Baaklini LR, Liu J, Poultsides L, Cozowicz C, Poeran J, Saleh JN, Memtsoudis SG. Neuraxial anaesthesia techniques and postoperative outcomes among joint arthroplasty patients: is spinal anaesthesia the best option?. British journal of anaesthesia. 2018 Oct 1;121(4):842-9.
+
+Cozowicz C, Poeran J, Zubizarreta N, Liu J, __Weinstein SM__, Pichler L, Mazumdar M, Memtsoudis SG. Non-opioid analgesic modes of pain management are associated with reduced postoperative complications and resource utilisation: a retrospective study of obstructive sleep apnoea patients undergoing elective joint arthroplasty. British Journal of Anaesthesia. 2019 Jan 1;122(1):131-40.
+
+Pichler L, __Weinstein SM__, Cozowicz C, Poeran J, Liu J, Poultsides LA, Saleh JN, Memtsoudis SG. Perioperative impact of sleep apnea in a high-volume specialty practice with a strong focus on regional anesthesia: a database analysis. Regional Anesthesia & Pain Medicine. 2019 Mar 1;44(3):303-8.
+
+Memtsoudis S, Cozowicz C, Zubizarreta N, __Weinstein SM__, Liu J, Kim DH, Poultsides L, Berger MM, Mazumdar M, Poeran J. Risk factors for postoperative delirium in patients undergoing lower extremity joint arthroplasty: a retrospective population-based cohort study. Regional Anesthesia & Pain Medicine. 2019 Oct 1;44(10):934-43.
+
+
+
+

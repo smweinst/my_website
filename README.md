@@ -1,1 +1,1 @@
-smweinst.github.io
+https://smweinst.github.io/

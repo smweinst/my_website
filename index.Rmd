@@ -2,6 +2,6 @@
 title: "Hello!"
 ---
 
-I'm a third year Biostatistics PhD candidate at [Penn](https://www.upenn.edu/). I'm a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.cceb.med.upenn.edu/pennsive)), where I'm co-advised by Drs. Kristin Linn and Russell (Taki) Shinohara. My research is focused on developing statistical tools to extract and compare patterns in high-dimensional neuroimaging data.
+I'm a third year Biostatistics PhD candidate at [Penn](https://www.upenn.edu/). I'm a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.cceb.med.upenn.edu/pennsive)), where I'm co-advised by Drs. Kristin Linn and Russell (Taki) Shinohara. My research is focused on developing statistical tools to extract and compare patterns in high-dimensional neuroimaging data. I also completed my MS in Biostatistics under the mentorship of Dr. Alisa Stephens-Shields studying simulation-based design of clinical trials using propensity scores.
 
-I graduated from [Columbia University](https://www.columbia.edu/) in 2016 with a BA in Statistics and Psychology. Then I worked for two years as a data analyst in anesthesia research at [Hospital for Special Surgery](https://www.hss.edu/) in New York before starting at Penn in 2018.
+I graduated from [Columbia University](https://www.columbia.edu/) in 2016 with a BA in Statistics and Psychology. Then I worked for two years as a data analyst in anesthesia research at [Hospital for Special Surgery](https://www.hss.edu/) in New York before moving to Philadelphia and starting at Penn in 2018.

@@ -3,12 +3,10 @@ output_dir: "."
 navbar:
   title: "Sarah M. Weinstein"
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
     - text: "CV"
-      href: cv.html
-    - text: "Research"
-      href: research.html
+      href: cv.pdf
   right:
     - icon: fa-twitter
       href: https://twitter.com/smweinst
@@ -18,5 +16,5 @@ navbar:
       href: https://github.com/smweinst
 output:
   html_document:
-    theme: simplex
+    theme: paper
     css: style.css

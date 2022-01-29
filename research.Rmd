@@ -1,0 +1,38 @@
+---
+title: "Research"
+header-includes:
+ \floatplacement{figure}{H}
+---
+
+In my current research, I am interested in developing statistical tools to extract and compare patterns in multimodal neuroimaging data.
+
+### SPICE
+
+My first dissertation project described the **S**imple **P**ermutation-based test of **I**ntermodal **C**orr**E**spondence, or **SPICE** test. SPICE uses a traditional permutation testing framework to test significance of the relationship between two imaging modalities:
+
+<center>
+
+![](./attachments/SPICE_figure.png){width=80%}
+
+</center>
+
+A strength of the SPICE test compared to previous methods is that it does not depend on strong statistical assumptions.
+
+This paper is now published in [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25577). I also received a runner-up student paper award from the Section on Statistics in Imaging at the Joint Statistical Meetings conference in 2021.
+
+### PeDecURe
+My second dissertation project is motivated by the challenge of adjusting for nuisance variables (e.g., confounders) in multivariate analyses of neuroimaging data. While many neuroimaging researchers employ mass-univariate approaches to nuisance variable adjustment, these methods ignore the inherently complex structure of imaging data. Thus, we propose a multivariate approach to nuisance variable adjustment in neuroimaging studies: Penalized Decomposition Using Residuals, or **PeDecURe**.
+
+PeDecURe estimates primary directions of variation that both *maximize* covariance between a variable of interest $Y$ (e.g., Alzheimer's diagnosis) and residualized imaging features ($X^*$) and *mitigate* associations with nuisance variables $A$ (e.g., age and sex) through a penalty on the covariance between those variables and residualized features ($\widetilde X$):
+
+<center>
+
+![](./attachments/XYA.png){width=15%} $\hspace{10mm} \rightarrow \hspace{10mm}$
+![](./attachments/PeDecURe.png){width=50%}
+</center>
+where $X^*$ and $\widetilde X$ are matrices of residuals we obtain after fitting a model at each location in the image on $A$ and $Y$ and subtracting out the effects of $A$ and $Y$, respectively.
+
+For more details on PeDecURe, check out our [preprint](https://www.biorxiv.org/content/10.1101/2022.01.27.477859v1)!
+
+### Ongoing work
+I'm currently working on some extensions of the methods described above, including non-parametric testing to help localize associations between multiple imaging modalities and between imaging non-imaging variables.

@@ -9,4 +9,4 @@ For my dissertation, I'm co-advised by Drs. Kristin Linn and Russell (Taki) Shin
 
 I also completed my MS in Biostatistics under the mentorship of Dr. Alisa Stephens-Shields studying [simulation-based design of clinical trials using propensity scores](https://journals.sagepub.com/doi/10.1177/17407745211023840?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&). 
 
-Before starting at Penn in 2018, I graduated from [Columbia University](https://www.columbia.edu/) in 2016 with a BA in Statistics and Psychology and worked for two years as a data analyst in anesthesia research at [Hospital for Special Surgery](https://www.hss.edu/).
+Before starting at Penn, I graduated from [Columbia University](https://www.columbia.edu/) in 2016 with a BA in Statistics and Psychology and worked for two years as a data analyst in anesthesia research at [Hospital for Special Surgery](https://www.hss.edu/).

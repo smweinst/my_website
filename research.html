@@ -11,7 +11,7 @@
 
 
 
-<title>index.utf8</title>
+<title>Research</title>
 
 <script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -323,16 +323,35 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">Research</h1>
 
 </div>
 
 
-<p><br />
-</p>
-<p>I am a Biostatistics PhD candidate in UPenn’s Graduate Group in Epidemiology and Biostatistics (<a href="https://www.med.upenn.edu/ggeb/">GGEB</a>), a member of the Penn Statistics in Imaging and Visualization Center (<a href="https://www.cceb.med.upenn.edu/pennsive">PennSIVE</a>), and a <a href="(https://www.nsfgrfp.org/)">National Science Foundation Graduate Research Fellow</a>.</p>
-<p>For my dissertation, I’m co-advised by Drs. Kristin Linn and Russell (Taki) Shinohara. I’m primarily interested in developing novel statistical tools to extract and compare complex patterns in multimodal neuroimaging data. Recently, I’ve worked on methods for <a href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25577">hypothesis testing of multimodal imaging data</a> and <a href="https://www.biorxiv.org/content/10.1101/2022.01.27.477859v1">dimension reduction in the presence of nuisance variables</a>.</p>
-<p>I also completed my MS in Biostatistics under the mentorship of Dr. Alisa Stephens-Shields studying <a href="https://journals.sagepub.com/doi/10.1177/17407745211023840?url_ver=Z39.88-2003&amp;rfr_id=ori%3Arid%3Acrossref.org&amp;rfr_dat=cr_pub++0pubmed&amp;">simulation-based design of clinical trials using propensity scores</a>.</p>
-<p>Before starting at Penn, I graduated from <a href="https://www.columbia.edu/">Columbia University</a> in 2016 with a BA in Statistics and Psychology and worked for two years as a data analyst in anesthesia research at <a href="https://www.hss.edu/">Hospital for Special Surgery</a>.</p>
+<p>In my current research, I am interested in developing statistical tools to extract and compare patterns in multimodal neuroimaging data.</p>
+<div id="spice" class="section level3">
+<h3>SPICE</h3>
+<p>My first dissertation project described the <strong>S</strong>imple <strong>P</strong>ermutation-based test of <strong>I</strong>ntermodal <strong>C</strong>orr<strong>E</strong>spondence, or <strong>SPICE</strong> test. SPICE uses a traditional permutation testing framework to test significance of the relationship between two imaging modalities:</p>
+<center>
+<p><img src="attachments/SPICE_figure.png" style="width:80.0%" /></p>
+</center>
+<p>A strength of the SPICE test compared to previous methods is that it does not depend on strong statistical assumptions.</p>
+<p>This paper is now published in <a href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25577">Human Brain Mapping</a>. I also received a runner-up student paper award from the Section on Statistics in Imaging at the Joint Statistical Meetings conference in 2021.</p>
+</div>
+<div id="pedecure" class="section level3">
+<h3>PeDecURe</h3>
+<p>My second dissertation project is motivated by the challenge of adjusting for nuisance variables (e.g., confounders) in multivariate analyses of neuroimaging data. While many neuroimaging researchers employ mass-univariate approaches to nuisance variable adjustment, these methods ignore the inherently complex structure of imaging data. Thus, we propose a multivariate approach to nuisance variable adjustment in neuroimaging studies: Penalized Decomposition Using Residuals, or <strong>PeDecURe</strong>.</p>
+<p>PeDecURe estimates primary directions of variation that both <em>maximize</em> covariance between a variable of interest <span class="math inline">\(Y\)</span> (e.g., Alzheimer’s diagnosis) and residualized imaging features (<span class="math inline">\(X^*\)</span>) and <em>mitigate</em> associations with nuisance variables <span class="math inline">\(A\)</span> (e.g., age and sex) through a penalty on the covariance between those variables and residualized features (<span class="math inline">\(\widetilde X\)</span>):</p>
+<center>
+<img src="attachments/XYA.png" style="width:15.0%" /> <span class="math inline">\(\hspace{10mm} \rightarrow \hspace{10mm}\)</span> <img src="attachments/PeDecURe.png" style="width:50.0%" />
+</center>
+<p>where <span class="math inline">\(X^*\)</span> and <span class="math inline">\(\widetilde X\)</span> are matrices of residuals we obtain after fitting a model at each location in the image on <span class="math inline">\(A\)</span> and <span class="math inline">\(Y\)</span> and subtracting out the effects of <span class="math inline">\(A\)</span> and <span class="math inline">\(Y\)</span>, respectively.</p>
+<p>For more details on PeDecURe, check out our <a href="https://www.biorxiv.org/content/10.1101/2022.01.27.477859v1">preprint</a>!</p>
+</div>
+<div id="ongoing-work" class="section level3">
+<h3>Ongoing work</h3>
+<p>I’m currently working on some extensions of the methods described above, including non-parametric testing to help localize associations between multiple imaging modalities and between imaging non-imaging variables.</p>
+</div>
 
 
 

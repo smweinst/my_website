@@ -28,7 +28,7 @@ PeDecURe estimates primary directions of variation that both *maximize* covarian
 <center>
 
 ![](./attachments/XYA.png){width=15%} $\hspace{10mm} \rightarrow \hspace{10mm}$
-![](./attachments/PeDecURe.png){width=50%}
+![](./attachments/PeDecURe.png){width=40%}
 </center>
 where $X^*$ and $\widetilde X$ are matrices of residuals we obtain after fitting a model at each location in the image on $A$ and $Y$ and subtracting out the effects of $A$ and $Y$, respectively.
 

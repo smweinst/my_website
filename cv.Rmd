@@ -3,7 +3,7 @@ title: "CV"
 date: last updated `r format(Sys.time(),'%m/%d/%Y')`
 ---
 
-View my CV below or download it [here](cv.pdf).
+View my CV below or download it [here](./attachments/cv.pdf).
 
 <object data="./attachments/cv.pdf" type="application/pdf" width="100%">
 </object>

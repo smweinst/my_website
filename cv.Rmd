@@ -1,0 +1,5 @@
+---
+title: "CV"
+---
+
+View my CV [here](cv.pdf) (last updated `r format(Sys.time(), '%m/%d/%Y')`).

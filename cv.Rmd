@@ -1,8 +1,7 @@
 ---
-title: "CV"
-date: last updated `r format(Sys.time(),'%m/%d/%Y')`
+title: "\n"
 ---
-
-View my CV [here](./cv.pdf).
+\
+[View my CV here (last updated `r format(Sys.time(),'%m/%d/%Y')`)](./cv.pdf)
 
 ![](./cv.pdf){width=100%}

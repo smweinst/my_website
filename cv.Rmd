@@ -5,7 +5,7 @@ title: "\n"
 View my CV below or download it [here](./cv.pdf).  
 *last updated `r format(Sys.time(),'%m/%d/%Y')`*
 
-```{r out.height = "px", out.width='1000px', out.height='1000px',echo=F}
+```{r out.height = "px", out.width='850', out.height='1100px',echo=F}
 knitr::include_graphics("./cv.pdf")
 ```
 

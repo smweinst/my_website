@@ -2,10 +2,10 @@
 title: "\n"
 ---
 \
-[View my CV here (last updated `r format(Sys.time(),'%m/%d/%Y')`)](./cv.pdf)
-
-<!-- ![](./cv.pdf){height=2000%,width=1000%} -->
+View my CV below or download it [here](./cv.pdf).  
+*last updated `r format(Sys.time(),'%m/%d/%Y')`*
 
 ```{r out.height = "px", out.width='1000px', out.height='1000px',echo=F}
 knitr::include_graphics("./cv.pdf")
 ```
+

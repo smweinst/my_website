@@ -1,10 +1,17 @@
 ---
 title: "\n"
 ---
+<style type="text/css">
+.main-container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 \
 
-```{r out.width='30%', out.extra='style="float:left; padding:20px"',echo = F}
+```{r out.width='25%', out.extra='style="float:left; padding:20px"',echo = F}
 knitr::include_graphics("./attachments/picture.png")
 ```
 

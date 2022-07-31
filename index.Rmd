@@ -8,11 +8,11 @@ title: "\n"
 knitr::include_graphics("./attachments/picture.png")
 ```
 
-I am a Biostatistics PhD candidate in UPenn's Graduate Group in Epidemiology and Biostatistics ([GGEB](https://www.med.upenn.edu/ggeb/)), a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.cceb.med.upenn.edu/pennsive)), and a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/).
+I am a fifth-year Biostatistics PhD candidate in the Graduate Group in Epidemiology and Biostatistics ([GGEB](https://www.med.upenn.edu/ggeb/)) at the University of Pennsylvania, a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.cceb.med.upenn.edu/pennsive)), and a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/).
 
 
-For my dissertation, I'm co-advised by Drs. Kristin Linn and Russell (Taki) Shinohara. I'm primarily interested in developing novel statistical tools to extract and compare complex patterns in multimodal neuroimaging data. Recently, I've worked on methods for [hypothesis testing of multimodal imaging data](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25577) and [dimension reduction in the presence of nuisance variables](https://www.biorxiv.org/content/10.1101/2022.01.27.477859v1).
+My current research is primarily motivated by statistical issues in the analysis of complex multi-modal neuroimaging data. Under the mentorship of Dr. Russell (Taki) Shinohara and Dr. Kristin Linn, I've worked to develop a number of broadly applicable statistical methods, including [hypothesis tests for multiple neuroimaging modalities](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25577), [spatial localization of inter-modal associations](https://www.biorxiv.org/content/10.1101/2022.04.25.489462v1), and [feature extraction in the presence of nuisance variables](https://www.biorxiv.org/content/10.1101/2022.01.27.477859v1).
 
-I also completed my MS in Biostatistics under the mentorship of Dr. Alisa Stephens-Shields studying [simulation-based design of clinical trials using propensity scores](https://journals.sagepub.com/doi/10.1177/17407745211023840?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&). 
+I also completed my MS in Biostatistics at Penn under the mentorship of Dr. Alisa Stephens-Shields where we proposed [leveraging observational data and propensity score modeling in the design of pragmatic clinical trials](https://journals.sagepub.com/doi/10.1177/17407745211023840?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&).
 
-Before starting at Penn, I graduated from [Columbia University](https://www.columbia.edu/) in 2016 with a BA in Statistics and Psychology and worked for two years as a data analyst in anesthesia research at [Hospital for Special Surgery](https://www.hss.edu/).
+Before starting at Penn, I graduated from [Columbia University](https://www.columbia.edu/) in 2016 with a BA in Statistics and Psychology. From 2016-2018, I worked as a data analyst in anesthesia research at the [Hospital for Special Surgery](https://www.hss.edu/).

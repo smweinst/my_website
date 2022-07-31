@@ -11,7 +11,7 @@ title: "\n"
 
 \
 
-```{r out.width='25%', out.extra='style="float:left; padding:20px"',echo = F}
+```{r out.width='30%', out.extra='style="float:left; padding:30px"',echo = F}
 knitr::include_graphics("./attachments/picture.png")
 ```
 

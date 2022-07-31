@@ -11,9 +11,10 @@ title: "\n"
 
 \
 
-```{r out.width='40%', out.extra='style="float:left; padding:40px"',echo = F}
+```{r out.width='35%', out.extra='style="float:left; padding:15px"',echo = F}
 knitr::include_graphics("./attachments/picture.png")
 ```
+
 
 I am a fifth-year Biostatistics PhD candidate in the Graduate Group in Epidemiology and Biostatistics ([GGEB](https://www.med.upenn.edu/ggeb/)) at the University of Pennsylvania, a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.cceb.med.upenn.edu/pennsive)), and a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/).
 

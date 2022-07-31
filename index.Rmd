@@ -9,9 +9,8 @@ title: "\n"
 }
 </style>
 
-\
 
-```{r out.width='35%', out.extra='style="float:left; padding:15px"',echo = F}
+```{r out.width='25%', out.extra='style="float:left; padding:15px"',echo = F}
 knitr::include_graphics("./attachments/picture.png")
 ```
 

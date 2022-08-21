@@ -2,7 +2,7 @@
 title: "\n"
 ---
 \
-View my CV below or download it [here](./cv.pdf).  
+View my CV below or open it [here](./cv.pdf).  
 *last updated `r format(Sys.time(),'%m/%d/%Y')`*
 
 ```{r out.height = "px", out.width='1190px', out.height='1540px',echo=F}

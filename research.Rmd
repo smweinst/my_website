@@ -35,4 +35,4 @@ where $X^*$ and $\widetilde X$ are matrices of residuals we obtain after fitting
 This work is now published in [*Biostatistics*](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxac031/6661240?searchresult=1), and an R package is available on my [GitHub](https://github.com/smweinst/PeDecURe).
 
 ### Ongoing work
-I'm working on some extensions of the methods described above, including hypothesis testing and spatial localization of inter-modal associations (preprint [here](https://www.biorxiv.org/content/10.1101/2022.04.25.489462v1)). I am also interested in multivariate approaches to quantifying and mapping image-phenotype associations.
+I've worked on some extensions of the methods described above, including hypothesis testing and spatial localization of inter-modal associations ([in press at *NeuroImage*](https://www.sciencedirect.com/science/article/pii/S1053811922008333)). I am also interested in multivariate approaches to quantifying and spatially mapping image-phenotype associations.

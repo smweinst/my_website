@@ -14,8 +14,6 @@ navbar:
       href: https://scholar.google.com/citations?user=3ZRRrNoAAAAJ&hl=en&oi=sra
     - icon: fab fa-github
       href: https://github.com/smweinst
-    - icon: fab fa-twitter
-      href: https://twitter.com/smweinst
     - icon: fab fa-linkedin-in
       href: https://linkedin.com/in/sarah-m-weinstein
 output:

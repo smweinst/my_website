@@ -1,25 +1,30 @@
 ---
-title: "\n"
+title: ""
 ---
+
+```{r out.width='20%', out.extra='style="float:left; padding:20px"',echo = F}
+knitr::include_graphics("./attachments/picture.png")
+```
+
 <style type="text/css">
 .main-container {
-  max-width: 900px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
 </style>
 
-\
+#### 
+##### Hello! I'm an Assistant Professor of Biostatistics in the [Department of Epidemiology and Biostatistics](https://cph.temple.edu/departments-research/departments/department-epidemiology-and-biostatistics) at [Temple University College of Public Health](https://cph.temple.edu/).
 
-```{r out.width='25%', out.extra='style="float:left; padding:15px"',echo = F}
-knitr::include_graphics("./attachments/picture.png")
-```
+I mainly work on developing new statistical methods for analyzing neuroimaging data, motivated by applications in mental health, neurodevelopment, and neurodegenerative disease. I'm also involved in research across numerous areas as a statistical collaborator.
 
-I am a fifth-year Biostatistics PhD candidate in the Graduate Group in Epidemiology and Biostatistics ([GGEB](https://www.med.upenn.edu/ggeb/)) at the University of Pennsylvania, a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.cceb.med.upenn.edu/pennsive)), and a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/).
+Before joining the faculty at Temple, I was a PhD student at Penn, where I was a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.dbeicoe.med.upenn.edu/pennsive)). I was also previously a data analyst at the [Hospital for Special Surgery](https://www.hss.edu/) and an undergrad at [Columbia](https://www.columbia.edu/).
 
+-----
 
-My current research is primarily motivated by statistical issues in the analysis of complex multi-modal neuroimaging data. Under the mentorship of Dr. Russell (Taki) Shinohara and Dr. Kristin Linn, I've worked to develop a number of broadly applicable statistical methods, including [hypothesis tests for multiple neuroimaging modalities](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25577), [spatial localization of inter-modal associations](https://www.sciencedirect.com/science/article/pii/S1053811922008333), and [feature extraction in the presence of nuisance variables](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxac031/6661240?searchresult=1).
+##### Interested in working together? Feel free to [reach out!](mailto:sarah.m.weinstein@temple.edu)
 
-I also completed my MS in Biostatistics at Penn under the mentorship of Dr. Alisa Stephens-Shields where we proposed [leveraging observational data and propensity score modeling in the design of pragmatic clinical trials](https://journals.sagepub.com/doi/10.1177/17407745211023840?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&).
+I'm recruiting an [Epidemiology PhD](https://www.temple.edu/academics/degree-programs/epidemiology-phd-hp-epid-phd) student for Fall 2024. If you'd like to work together, please reach out to me directly in addition to submitting an application through [SOPHAS](https://sophas.aspph.org/).
 
-Before starting at Penn, I graduated from [Columbia University](https://www.columbia.edu/) in 2016 with a BA in Statistics and Psychology. From 2016-2018, I worked as a data analyst in anesthesia research at the [Hospital for Special Surgery](https://www.hss.edu/).
+-----

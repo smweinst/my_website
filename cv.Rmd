@@ -1,7 +1,15 @@
 ---
-title: "\n"
+title: ""
 ---
-\
+
+<style type="text/css">
+.main-container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 View my CV below or open it [here](./cv.pdf).  
 *last updated `r format(Sys.time(),'%m/%d/%Y')`*
 

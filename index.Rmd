@@ -2,7 +2,7 @@
 title: ""
 ---
 
-```{r out.width='20%', out.extra='style="float:left; padding:20px"',echo = F}
+```{r out.width='25%', out.extra='style="float:left; padding:20px"',echo = F}
 knitr::include_graphics("./attachments/picture.png")
 ```
 

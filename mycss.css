@@ -1,0 +1,125 @@
+/* General document style */
+body {
+  font-family: "Avenir", sans-serif;
+  font-size: 14px;
+  line-height: 1.9;
+  color: #333333;
+  background-color: #ffffff;
+  padding: 40px;
+  margin: 0 auto;
+  max-width: 800px;
+  font-weight: 300;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Avenir", sans-serif;
+  color: black;
+  margin-top: 0px;
+  margin-bottom: 4px;
+  font-weight: 400;
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 26px; }
+h3 { font-size: 22px; }
+h4 { font-size: 22px; }
+h5 { font-size: 16px; }
+h6 { font-size: 18px; }
+
+/* Blockquote */
+blockquote {
+  font-style: italic;
+  color: #666666;
+  border-left: 4px solid #ccc2cc;
+  padding-left: 15px;
+  margin: 20px 0;
+}
+
+/* Code */
+pre, code {
+  background-color: #f8f8f8;
+  border: 1px solid #dddddd;
+  padding: 5px;
+  font-family: "Courier New", monospace;
+  font-size: 13px;
+  color: #333333;
+}
+
+pre {
+  padding: 10px;
+  overflow-x: auto;
+}
+
+/* Links */
+a {
+  color: #696ead;
+  text-decoration: blink;
+}
+
+a:hover {
+  color: #ada869;
+  text-decoration: blink;
+}
+
+/* Lists */
+ul, ol {
+  margin: 10px 0 10px 20px;
+}
+
+ul li, ol li {
+  margin-bottom: 5px;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+table, th, td {
+  border: 1px solid #cccccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Horizontal rule */
+hr {
+  border: 1px solid #eeeeee;
+  margin: 30px 0;
+}
+
+/* Footnotes */
+.footnote {
+  font-size: 12px;
+  color: black;
+}
+
+/* Navbar styles */
+.navbar {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+  padding: 10px; /* Padding for the navbar */
+  display: flex; /* Flexbox for layout */
+  align-items: center; /* Center items vertically */
+  box-shadow: 0 2px 4px rgb(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Navbar title */
+.navbar-brand {
+  font-size: 20px;
+  color: black; 
+  margin-right: 0px; /* Space between brand and links */
+
+}
+

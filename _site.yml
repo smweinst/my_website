@@ -13,4 +13,4 @@ navbar:
       href: https://linkedin.com/in/sarah-m-weinstein
 output:
   html_document:
-    theme: journal
+    css: mycss.css

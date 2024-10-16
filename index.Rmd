@@ -19,12 +19,13 @@ knitr::include_graphics("./attachments/picture.JPG")
 ##### 
 
 
-##### Hello! I'm an Assistant Professor of Biostatistics in the [Department of Epidemiology and Biostatistics](https://cph.temple.edu/departments-research/departments/department-epidemiology-and-biostatistics) in the [College of Public Health at Temple University](https://cph.temple.edu/).
+##### Hello! I'm an Assistant Professor of Biostatistics in the [College of Public Health at Temple University](https://cph.temple.edu/).
 
 
 ##### 
 
-My research focuses on statistical methods to improve replicability and interpretability of research about the human brain. I primarily work on methods for analyzing neuroimaging data, motivated by questions in mental health, neurodevelopment, and neurodegenerative disease. As a biostatistician, I'm also involved in collaborative projects across numerous areas.
+My research focuses on developing new statistical tools to improve methodological rigor in neuroscience research. I primarily work on methods for analyzing brain imaging data, motivated by questions in mental health, neurodevelopment, and neurodegenerative disease. I'm also involved in collaborative research projects in numerous other areas in medicine and public health.
+
 
 Before joining the faculty at Temple, I was a PhD student at Penn, where I was a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.dbeicoe.med.upenn.edu/pennsive)). I was also previously a data analyst at the [Hospital for Special Surgery](https://www.hss.edu/) and an undergrad at [Columbia](https://www.columbia.edu/).
 

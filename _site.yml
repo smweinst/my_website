@@ -3,14 +3,16 @@ output_dir: "."
 navbar:
   title: "Sarah M. Weinstein, PhD"
   right:
-    - text: "CV"
-      href: ./cv.pdf
     - icon: fa-graduation-cap
       href: https://scholar.google.com/citations?user=3ZRRrNoAAAAJ&hl=en&oi=sra
     - icon: fab fa-github
       href: https://github.com/smweinst
     - icon: fab fa-linkedin-in
       href: https://linkedin.com/in/sarah-m-weinstein
+    - icon: fa-solid fa-address-book
+      href: https://cph.temple.edu/about/faculty-staff/sarah-m-weinstein-tus35331
+    - text: "CV"
+      href: ./cv.pdf  
 output:
   html_document:
     css: mycss.css

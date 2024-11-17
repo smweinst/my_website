@@ -10,7 +10,7 @@ navbar:
     - icon: fab fa-linkedin-in
       href: https://linkedin.com/in/sarah-m-weinstein
     - icon: fa-solid fa-address-book
-      href: https://cph.temple.edu/about/faculty-staff/sarah-m-weinstein-tus35331
+      href: https://cph.temple.edu/directory/sarah-m-weinstein-tus35331
     - text: "CV"
       href: ./cv.pdf  
 output:

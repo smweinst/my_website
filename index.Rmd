@@ -11,18 +11,9 @@ knitr::include_graphics("./attachments/picture.JPG")
 ##### 
 
 
-##### Hello! I'm an Assistant Professor of Biostatistics in the [College of Public Health at Temple University](https://cph.temple.edu/).
-
+##### Hello! I'm an Assistant Professor of Biostatistics at [Temple University College of Public Health](https://cph.temple.edu/).
 ##### 
 
-My research focuses on developing new tools to improve statistical rigor in neuroscience research. I primarily work on methods for analyzing brain imaging data, motivated by questions in mental health, neurodevelopment, and neurodegenerative disease. I'm also involved in collaborative research projects in numerous other areas in medicine and public health.
+I work on developing and validating new statistical methods to improve rigor in research involving complex biomedical data, especially from brain imaging studies. I also serve as a statistical collaborator on research projects in many other areas of medicine, public health, and social sciences.
 
-Before joining the faculty at Temple, I was a PhD student at Penn, where I was a member of the Penn Statistics in Imaging and Visualization Center ([PennSIVE](https://www.dbeicoe.med.upenn.edu/pennsive)). I was also previously a data analyst at the [Hospital for Special Surgery](https://www.hss.edu/) and an undergrad at [Columbia](https://www.columbia.edu/).
-
------
-
-###### Prospective PhD students
-
-I am currently recruiting a PhD student for Temple's [Epidemiology PhD program](https://www.temple.edu/academics/degree-programs/epidemiology-phd-hp-epid-phd). If you'd like to work together, please reach out to me directly in addition to submitting an application through [SOPHAS](https://sophas.aspph.org/).
-
------
+I completed my PhD in Biostatistics at the University of Pennsylvania, where I was a member of the [PennSIVE](https://www.dbeicoe.med.upenn.edu/pennsive) group. I was also previously a data analyst at the [Hospital for Special Surgery](https://www.hss.edu/) and an undergrad at [Columbia](https://www.columbia.edu/).
